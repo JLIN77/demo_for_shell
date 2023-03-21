@@ -31,5 +31,5 @@ done
 echo ${all}
 
 
-scp -r wanglin@172.23.148.92:${all} ./
+scp -r user@xxx.xx.xx.xx:${all} ./
 
